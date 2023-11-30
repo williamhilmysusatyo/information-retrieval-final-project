@@ -11,6 +11,10 @@
 
 
 ## Features
-
+1. Search anything related to the doctor, patient, and treatment
+2. Search the doctor that handles particular patient
+3. Search list of patients that took particular treatment
+4. Search list of treatment that could be done by particular doctor
+5. Search list of doctor that took particular treatment
 
 ## Tools
