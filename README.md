@@ -7,7 +7,7 @@
 
 
 ## Overview
-This research presented in this repository utilizes the BM25 Algorithm to create a ranked retrieval system from the dataset of app.rekmed.com, an integrated medical platform. The proper preprocessing method, such as forward imputation, and feature engineering technique, which includes cardinality reduction, are performed to ensure that the resulting ranked retrieval produces reliable results. 
+The research presented in this repository utilizes the BM25 Algorithm to create a ranked retrieval system from the dataset of app.rekmed.com, an integrated medical platform. The proper preprocessing method, such as forward imputation, and feature engineering technique, which includes cardinality reduction, are performed to ensure that the resulting ranked retrieval produces reliable results. 
 
 Recent findings suggest that the performance metrics of the method is highly dependent on the given query. Nevertheless, the result from most of the queries indicates that the precision tends to be lower as the document that is taken into consideration becomes greater, while the opposite occurs for the recall. The reason lies in the nature of precision, where a broader set of items is taken into account, making it increasingly difficult for all of them to be genuinely relevant. In contrast, recall tends to rise with a larger top K since it gauges the model's effectiveness in capturing as many pertinent items as possible.
 
