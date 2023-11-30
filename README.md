@@ -21,4 +21,9 @@ The features provided in this ranked retrieval system consist of as follows:
 ## Tools
 - Python
 - Jupyter Notebook
-- 
+- Library:
+  * Pandas
+  * Matplotlib
+  * Sklearn
+  * Numpy
+  * BM25
