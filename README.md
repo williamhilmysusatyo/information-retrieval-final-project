@@ -1,4 +1,4 @@
-# information-retrieval-final-project
+# Implementation of BM25 Algorithm for Search Engine Development of app.rekmed.com
 
 * Haikal Muhammad Zahid Ghiffari - (21/472762/PA/20332)
 * Muhammad Rifki Aprinanda Putra - (21/477836/PA/20707)
